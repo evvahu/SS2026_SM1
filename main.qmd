@@ -6,6 +6,6 @@ format: html
 
 | Sitzung  | Datum      | Thema     | Lektüre | Leistungsnachweis   |
 | ----- | ---------- | -------------------------- | -------------------- | 
-| 1 | 16.04.2026 | [Einführung](.sitzung_1.html) |  | |
+| 1 | 16.04.2026 | [Einführung](Sitzung_1.html) |  | |
 | 2 | 23.04.2026 | Sprachdiversität in der Psycholinguistik | PAPER | - |
 | 3 | 30.04.2026  | Sprachverarbeitung: Verstehen und das "Competition Model" MacWhinney, Bates & Kliegl, 1984 | Kommentare & Fragen auf Perusal bis 12:00 |  
