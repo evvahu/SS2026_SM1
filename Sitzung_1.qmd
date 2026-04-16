@@ -54,21 +54,19 @@ bibliography: references.bib
 
 **Was wünschen Sie sich für eine angenehme und produktive Zusammenarbeit?**
 
-[Link](link)
+
 
 ## Was ich von Ihnen erwarte
 
 :::: r-fit-text
 ::: incremental
 -   respektvollen Umgang, es ist mir wichtig das alle sich wohl fühlen
--   Unterschiede und Diversität wird als Gewinn und nicht als Nachteil betracht
--   nutzen Sie die Gelegenheit im Unterricht Fragen zu stellen, Meinungen zu äußern, zu diskutieren und so zu lernen. Es gibt keine "doofen" Fragen & Kommentare.
--   Rückmeldungen, Ideen und Anregungen Ihrerseits sind erwünscht!
+-   Unterschiede und Diversität werden als Gewinn und nicht als Nachteil betrachtet
+-   Trauen Sie sich Fragen zu stellen, Ihre Meinung zu äußern und Gedanken zu teilen. Es gibt keine "doofen" Fragen & Kommentare
+-   Rückmeldungen, Ideen und Anregungen Ihrerseits sind erwünscht
 -   Dieses Seminar ist abhängig von Ihrer Anwesenheit und aktiven Mitarbeit. Ihre Anwesenheit in den Sitzungen wird deshalb erwartet.
     -   bei Abwesenheit, melden Sie sich bitte vorab bei mir
 -   Falls Sie eine Sitzung verpassen, informieren Sie sich bei Ihren Kommiliton:innen, nicht alle Informationen können auf den Folien gefunden werden
--   um die “aktive Teilnahme” zu erhalten: Erbringung der Leistungsnachweise
--   Prüfungsleistung: Hausarbeit
 :::
 ::::
 
@@ -82,7 +80,7 @@ bibliography: references.bib
 
 :::: r-fit-text
 ::: incremental
--   Artikel lesen und Fragen/Diskussionspunkte vor der Sitzung online teilen, auf andere Kommentare Bezug nehmen und andere Fragen beantworten
+-   "Social Annotating": Artikel lesen und Fragen/Diskussionspunkte vor der Sitzung online auf *Perusall* teilen/annotieren, auf andere Kommentare Bezug nehmen und andere Fragen beantworten
 -   für den Leistungsnachweis: 5/6 Beiträge sind obligatorisch
 :::
 ::::
@@ -104,6 +102,17 @@ bibliography: references.bib
 ::: aside
 \*für die aktive Teilnahme
 :::
+
+## Organisatorisches
+
+- Wir verwenden in diesem Kurs [**kein Illias**]{style="color: #8b093bf6;"}
+- E-Mail-Liste
+- Semesterplan und Folien auf öffentlicher Webseite: https://evvahu.github.io/SS2026_SM1/main.html
+    - Ihre Namen & Daten werden da nie erwähnt
+- Lektüre und Annotationen auf Perusall 
+    - nach diesem Seminar schicke ich Ihnen einen Link + Passwort mit dem Sie dem Perusall-Kurs beitreten können
+    - falls Probleme auftreten, bitte bei mir melden
+
 
 ## Einführung
 
@@ -258,7 +267,13 @@ grammatische Kombinatorik: prozedurales Wissen um das Zusammenpassen sprachliche
 
 # Lektürenempfehlungen
 
-# References
+-
+-
+-
+-
+
+
+# Referenzen
 
 ::: {#refs}
 :::
