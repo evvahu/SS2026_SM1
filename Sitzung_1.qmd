@@ -392,13 +392,13 @@ glossr::as_gloss(
 
 ## Nächstes Mal
 
-![](participants.png)
+![](images/participants.png)
 
 
 
 ## Nächstes Mal
 
-![](participants.png)
+![](images/participants.png)
 
 **Wieso ist es essentiell, dass wir nicht nur Daten von einer solchen Sprechergruppe haben?**
 
