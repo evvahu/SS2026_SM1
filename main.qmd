@@ -13,7 +13,6 @@ bibliography: references.bib
 
 Wie verarbeiten und lernen Menschen Sprache auf der ganzen Welt? In diesem Kurs nähern wir uns diesen Themen aus typologischer Sicht. Wir schauen uns an, wie Menschen Sätze verarbeiten, produzieren und lernen und wie diese Prozesse sich zwischen Sprecher\*innen unterschiedlicher Sprachen ähneln und unterscheiden. Den Fokus legen wir dabei auf Morphosyntax. Themen umfassen unter anderem wie die eigene Sprache die Produktion, das Verstehen und Erlernen von Sätzen in unterschiedlichen Worstellungen beeinflussen. Zuerst erarbeiten wir uns die nötigen Grundlagen der Methodologien und Theorien der Psycholinguistik und besprechen im Anschluss Papers aus Fachzeitschriften. Der Kurs wird ebenfalls einen praktischen Teil beinhalten.
 
-Kursziele:
 
 
 
@@ -21,7 +20,7 @@ Kursziele:
 
 | Sitzung | Datum | Thema | Lektüre | Zusätzliche Lektüre |
 |---------------|---------------|---------------|---------------|---------------|
-| 1 | 16.04.2026 | [Einführung](sitzung_1.html) |  |  |
+| 1 | 16.04.2026 | [Einführung](Sitzung_1.html) |  |  |
 | 2 | 23.04.2026 | Sprachdiversität in der Psycholinguistik | @norcliffeCrosslinguisticPsycholinguisticsIts2015 | @stoll2015; @passmore2025; @henrich2010; @bowerman2010; @blasi2022 |
 | 3 | 30.04.2026 | [Sprachverstehen Erwachsene]{style="color: #0b7d65ea;"}: Competition Model | @macwhinney1984 |  |
 | 4 | 07.05.2026 | [Spracherwerb]{style="color: #a90f7bfc;"}: Competition Model; [Einführung zu EEG]{style="color: #000fdeea;"} | @chan2009 |  |
