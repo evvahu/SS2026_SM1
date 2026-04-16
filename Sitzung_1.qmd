@@ -400,7 +400,7 @@ glossr::as_gloss(
 
 ![](images/participants.png)
 
-**Wieso ist es essentiell, dass wir nicht nur Daten von einer solchen Sprechergruppe haben?**
+**Wieso ist es essentiell, dass wir nicht nur Forschung zu einer Sprechergruppe haben?**
 
 In diesem Seminar: Fokus auf Sprachdiversität (ebenso wichtig: Neurodiversität, kulturelle Diversität, unterschiedliche Hintergründe, etc.)
 
