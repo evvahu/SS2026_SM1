@@ -23,7 +23,7 @@ bibliography: references.bib
 ::: incremental
 -   wir uns kennenlernen
 -   Sie einen Überblick über den Verlauf des Kurses und die Anforderungen haben
--   wissen, was wir in der Psycholinguistik erforschen und ...
+-   wissen, was wir in der Psycholinguistik erforschen und
 -   ... mit was wir uns hier spezifisch im Seminar befassen werden
 :::
 
@@ -60,7 +60,7 @@ bibliography: references.bib
 
 :::: r-fit-text
 ::: incremental
--   respektvollen Umgang, es ist mir wichtig das alle sich wohl fühlen
+-   respektvollen Umgang, es ist mir wichtig, dass alle sich wohl fühlen
 -   Unterschiede und Diversität werden als Gewinn und nicht als Nachteil betrachtet
 -   Trauen Sie sich Fragen zu stellen, Ihre Meinung zu äußern und Gedanken zu teilen. Es gibt keine "doofen" Fragen & Kommentare
 -   Rückmeldungen, Ideen und Anregungen Ihrerseits sind erwünscht
@@ -70,7 +70,6 @@ bibliography: references.bib
 :::
 ::::
 
-## Wochenplan
 
 ## Leistungsnachweise\*
 
@@ -105,6 +104,8 @@ bibliography: references.bib
 
 ## Organisatorisches
 
+:::{.r-fit-text}
+
 - Wir verwenden in diesem Kurs [**kein Illias**]{style="color: #8b093bf6;"}
 - E-Mail-Liste
 - Semesterplan und Folien auf öffentlicher Webseite: https://evvahu.github.io/SS2026_SM1/main.html
@@ -113,8 +114,9 @@ bibliography: references.bib
     - nach diesem Seminar schicke ich Ihnen einen Link + Passwort mit dem Sie dem Perusall-Kurs beitreten können
     - falls Probleme auftreten, bitte bei mir melden
 
+:::
 
-## Einführung
+## Einführung 
 
 **Mit was beschäftigen wir uns in der Psycholinguistik?**
 
@@ -124,7 +126,7 @@ bibliography: references.bib
 -   Sprachverstehen
 -   Sprachstörungen
 
-@dietrich2017
+[[@dietrich2017]{style="color: #22636bfa;font-size: 70%"}]{.absolute bottom=0 left=0}
 
 ------------------------------------------------------------------------
 
@@ -132,20 +134,26 @@ bibliography: references.bib
 
 Was sind die Komponenten des sprachlichen Wissens?
 
+:::{.r-fit-text}
+
 ::: incremental
 -   lexikalische Wissen
 -   grammatischen Kombinatorik (oder einfach nur "Grammatik")
+-   (Pragmatik, soziolinguistisches Wissen)
 :::
 
 Was sind mögliche Prozeduren, Mechanismen?
 
 ::: incremental
--   Sprache verstehen
--   Sprache produzieren
--   nicht identische Mechanismen!
-:::
 
-@dietrich2017
+
+- Abrufen von sprachlichem Wissen (Wörtern, syntaktische Form etc.)
+- Vorhersagen von nachfolgenden Wörtern & Integration von bereits gehörten Wörtern
+- ...
+
+:::
+:::
+[[@dietrich2017]{style="color: #22636bfa;font-size: 70%"}]{.absolute bottom=0 left=0}
 
 ::: notes
 kognitive Vorgänge und Zustände des sprachlichen Wissens: Sprachfähigkeit des Menschen beruht auf dem Zusammenwirken mehrerer Wissensbestände und Verarbeitungssysteme
@@ -159,7 +167,7 @@ grammatische Kombinatorik: prozedurales Wissen um das Zusammenpassen sprachliche
 
 [**Sprachfähigkeit**: Wechselwirkung zwischen Sprachwissen und Sprachvorgängen]{style="font-size:150%;"}
 
-@dietrich2017
+[@dietrich2017]{style="color: #22636bfa;font-size: 70%"}
 
 ------------------------------------------------------------------------
 
@@ -169,13 +177,17 @@ grammatische Kombinatorik: prozedurales Wissen um das Zusammenpassen sprachliche
 
 [Beispiele?]{style="color: #58226bce;"}
 
+::: r-fit-text
+
 ::: incremental
--   Wie werden Wörter gelernt?
-    -   Wie werden die Regeln gelernt wie Wörter geformt werden? kombiniert werden?
+-   Wie werden Wörter und deren Bedeutungen gelernt?
+-   Wie werden die Regeln gelernt, wie Wörter geformt und kombiniert werden?
 -   Wie werden (komplexe) Satzstrukturen gelernt?
 -   Wie versteht ein Kind Sätze? Wie lernt es Sätze zu verarbeiten?
+-   ...
 :::
 
+:::
 ------------------------------------------------------------------------
 
 ### Sprachproduktion
@@ -242,35 +254,167 @@ grammatische Kombinatorik: prozedurales Wissen um das Zusammenpassen sprachliche
 
 ### Sprachverstehen
 
-[**Inkrementalität**]{style="font-size: 80%;"}
+Heute
+
+----
+
+### Sprachverstehen
+
+Heute 
+
+----
+
+### Sprachverstehen
+
+Heute früh
+
+----
+
+### Sprachverstehen
+
+Heute früh habe
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich sehr
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich sehr gut
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich sehr gut gefrühstückt
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich sehr gut [jongliert]{style="color: #de0ead8d;"}
+
+----
+
+### Sprachverstehen
+
+Heute früh habe ich sehr gut [\*gerannt]{style="color: #ba0f23fc;"}
+
+----
+
+
+### Sprachverstehen
+
+- gesprochene Sprache ist flüchtig -> schnelle & **inkrementelle** Verarbeitung
+- Integration des vorherigen Inputs und Vorhersagen des nachfolgenden Inputs
+
 
 ---
 
 
 ### Sprachstörungen
 
-## Einführung
+**Was für Sprachstörungen kennen Sie?**
 
-**Mit was beschäftigen wir uns in der Psycholinguistik?**
+::: incremental
 
--   kognitive Vorgänge und Zustände des sprachlichen Wissens
+- Sprechhpraxie: betrifft die phonetisch-phonologische Produktion
+- Broca-Aphasie: Störung der syntaktischen Verarbeitung (Produktion & Rezeption)
+- Wernicke-Aphasie: Störung der lexikalischen Verarbeitung (Produktion & Rezeption)
+- Sprachentwicklungsstörungen, z.B. im Lauterwerb oder Wortschatzerweiterung
 
--   [**Spracherwerb**]{style="color: #58226bce;"}
+:::
 
--   Sprachproduktion
+[[@dietrich2017]{style="color: #22636bfa;font-size: 70%"}]{.absolute bottom=0 left=0}
 
--   [**Sprachverstehen**]{style="color: #58226bce;"}
+::: notes
 
--   Sprachstörungen
 
-@dietrich2017
 
-# Lektürenempfehlungen
 
--
--
--
--
+:::
+
+--- 
+
+### Fokus von diesem Seminare
+
+
+-   Einfluss von verschiedenen Sprachen
+-   Verarbeitung (v.a. Verstehen) von Morphosyntax auf der Satzebene 
+-   sowohl von Kindern und Erwachsenen
+    - wie unterscheiden sich Kinder von Erwachsenen? Welche sprachspezifischen Muster sind schon bei Kinder ersichtlich? Welche nicht? Welche gehen verloren?
+
+------------------ 
+
+
+### Beispiele
+
+
+```{r}
+
+glossr::as_gloss(
+    "Minik tavşan birazdan yiyecek şuradaki havuçu.",
+  "Minik tavşan birazdan yi-yecek şura-da-ki havuç-u.",
+  "little rabit soon eat-FUT there-Loc-Rel carrot-Acc",
+  translation = "The little rabbit will soon eat the carrot over there",
+  label = "my-label",
+  source = "Turkish (Özge et al. 2019, example 6)"
+)
+
+```
+
+------------------ 
+
+### Beispiele
+
+```{r}
+glossr::as_gloss(
+  "Kakainin ng maliit na kuneho ang karot diyan mamaya",
+  "Ka~kain-in ng maliit na kuneho ang karot diyan mamaya",
+  "IPFV~eat-PV GEN small LK rabbit NOM carrot over_there soon",
+  translation = "The little rabbit will soon eat the carrot over there",
+  label = "my-label2",
+  source = "Tagalog (mein Beispiel)"
+)
+
+```
+
+
+## Nächstes Mal
+
+![](participants.png)
+
+
+
+## Nächstes Mal
+
+![](participants.png)
+
+**Wieso ist es essentiell, dass wir nicht nur Daten von einer solchen Sprechergruppe haben?**
+
+In diesem Seminar: Fokus auf Sprachdiversität (ebenso wichtig: Neurodiversität, kulturelle Diversität, unterschiedliche Hintergründe, etc.)
+
+
+
+## Semesterplan: thematischer Aufbau {.scrollable}
+
+- Sitzung 2: Sprachdiversität in der Psycholinguistik
+    - Wieso ist es wichtig unterschiedliche Sprachen zu erforschen, um zu wissen, wie Menschen Sprache allgemein verarbeiten?
+- Sitzung 3 und 4: Competition Model, Fokus auf sprachbedingte Unterschiede in der Sprachverarbeitung 
+    - Competition Model: eine Theorie, die die Auswirkungen von Sprachunterschieden auf die Sprachverarbeitung eklärt (oder versucht zu erklären)
+- Sitzung  5 und 6: Agens Präferenz, eine universelle Verarbeitungsstrategie?
+- Sitzung 7: sprachbedingte Unterschiede von Verarbeitung komplexer Sätze
+- Sitzung 8: Sprachproduktion & Satzplanung (?)
 
 
 # Referenzen
