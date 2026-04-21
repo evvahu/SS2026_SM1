@@ -1,3 +1,14 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "SS26 SM1: Sprachverarbeitung und Spracherwerb aus typologischer Sicht"
+  navbar:
+    right: 
+      - main.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false
