@@ -1,0 +1,64 @@
+---
+title: "Sprachverarbeitung und Spracherwerb aus typologischer Sicht"
+subtitle: "Sitzung 3: Competition Model I"
+date: "30. April 2026"
+author: "Eva Scheel"
+institute: eva.scheel-huber@uni-koeln.de
+format:
+  revealjs: 
+    slide-number: true
+    theme: slides_theme.scss
+editor: source
+bibliography: references.bib
+---
+
+
+-----------------------------------------------------------------------
+
+
+
+## Wo stehen wir heute? (Erstspracherwerb)
+
+**Bedrohte Sprachen**
+
+"A comprehensive theory of any language phenomenon requires a representative sample that provides a solid foundation for theory building, and an even bigger sample for theory testing. As more and more languages disappear, we rapidly lose opportunities to better understand our object of study."[@passmore2025]
+
+--------
+
+![](images/passmore_graph.png){width="NaN" height=600}
+
+
+[@passmore2025]{style="font-size: 70%;"}
+
+--------
+
+
+**Sprachdiversität**
+
+![](images/freq_garcia_kidd.png)
+
+[@kiddhow2022]{style="font-size: 70%;"}
+
+----
+
+
+**Sprachdiversität**
+
+![](images/langs_kidd_garcia.png){width="NaN" height=600}     [@kiddhow2022]{style="font-size: 70%;"}
+
+
+
+
+
+## Wichtigsten Punkte?
+
+
+::: notes
+(1) by empirical testing postulated general (universal) properties of processing (see, for instance, the research on relative clause attachment, summarised above) and (2) by pointing to gaps in our theoretical coverage and exploring unknown territory.
+
+:::
+
+# Referenzen
+
+::: {#refs}
+:::
