@@ -15,6 +15,8 @@ bibliography: references.bib
 
 -----------------------------------------------------------------------
 
+## Was haben wir letztes Mal besprochen?
+
 
 
 ## Wo stehen wir heute? (Erstspracherwerb)
@@ -49,14 +51,81 @@ bibliography: references.bib
 
 
 
-
-## Wichtigsten Punkte?
-
+## Wichtigsten Punkte vom letzten Mal
 
 ::: notes
 (1) by empirical testing postulated general (universal) properties of processing (see, for instance, the research on relative clause attachment, summarised above) and (2) by pointing to gaps in our theoretical coverage and exploring unknown territory.
 
 :::
+
+
+## Competition Model
+
+Was ist es?
+
+---
+
+### Cue availability, reliability and validity
+
+::::: {.column width="30%"}
+**Mögliche Cues**:
+
+- Kasus
+- Kongruenz
+- Worstellung
+- Belebtheit
+:::::
+
+::::: {.column width="10%"}
+:::::
+::::: {.column width="60%"}
+
+**Beispielssätze**:
+
+- *Der Hund schläft*.
+- *Die Frau sieht das Kind*.
+- *Die Pferde sehen die Schülerinnen.*
+- *Die Hunde sehen wir.*
+- *Den Hund sieht der Mann.*
+- *Du siehst den Hund.*
+- *Ich werde die Frau sehen*.
+- *Die Frau sieht dich.*
+- *Das Mädchen verfehlt den Ball.*
+- *Der Fisch wird gegessen*.
+
+:::::
+
+::: notes
+
+- *Der Hund schläft*. Der = Agent
+- *Die Frau sieht das Kind*. Die = Agent, das = Patiens
+- *Die Pferde sehen die Schülerinnen.* Die = Agens, die = Patiens
+- *Den Hund sieht der Mann.* Der = Agent Den = Patiens, der = Agens
+- *Du siehst den Hund.* Du = Agens, den=Patiens
+- *Die Frau sieht dich.* Die = Agens, dich = Patiens
+- *Das Mädchen verfehlt den Ball.* Das = Agens, den = Patiens
+- *Der Fisch wird gegessen*. Der = Patiens
+
+:::
+
+
+## Paper
+
+- Ziel, Motivation
+- Methode
+- Resultate
+- Interpretation
+- Gedanken, Kritikpunkte, offene Fragen
+
+
+## Andere Sprachen?
+
+
+## Andere Modelle:
+
+- Was für Aspekte sind im Competition Model nicht enthalten, die in @norcliffeCrosslinguisticPsycholinguisticsIts2015 erwähnt worden sind?
+
+
 
 # Referenzen
 

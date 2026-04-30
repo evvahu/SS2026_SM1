@@ -21,7 +21,7 @@ Wie verarbeiten und lernen Menschen Sprache auf der ganzen Welt? In diesem Kurs 
 | Sitzung | Datum | Thema | Lektüre | Zusätzliche Lektüre |
 |---------------|---------------|---------------|---------------|---------------|
 | 1 | 16.04.2026 | [Einführung](Sitzung_1.html); [Gemeinsame Werte, Wünsche & Ziele](werte.html) |  |  |
-| 2 | 23.04.2026 | Sprachdiversität in der Psycholinguistik | @norcliffeCrosslinguisticPsycholinguisticsIts2015 | @stoll2015;@bowerman2010;@evansMythLanguageUniversals2009; @kiddhow2022;@passmore2025;@henrich2010; @blasi2022 |
+| 2 | 23.04.2026 | [Sprachdiversität in der Psycholinguistik](Sitzung_2.html) | @norcliffeCrosslinguisticPsycholinguisticsIts2015 | @stoll2015;@bowerman2010;@evansMythLanguageUniversals2009; @kiddhow2022;@passmore2025;@henrich2010; @blasi2022 |
 | 3 | 30.04.2026 | [Sprachverstehen Erwachsene]{style="color: #0b7d65ea;"}: Competition Model | @macwhinney1984 |  |
 | 4 | 07.05.2026 | [Spracherwerb]{style="color: #a90f7bfc;"}: Competition Model; [Einführung zu EEG]{style="color: #000fdeea;"} | @chan2009 |  |
 | \- | 14.05.2026 | Christi Himmelfahrt |  |  |
