@@ -17,7 +17,11 @@ bibliography: references.bib
 
 ## Was haben wir letztes Mal besprochen?
 
+::: notes
+(1) by empirical testing postulated general (universal) properties of processing (see, for instance, the research on relative clause attachment, summarised above) and (2) by pointing to gaps in our theoretical coverage and exploring unknown territory.
+universal and distinct properties
 
+:::
 
 ## Wo stehen wir heute? (Erstspracherwerb)
 
@@ -50,18 +54,30 @@ bibliography: references.bib
 
 
 
+## Heute: *Competition Model*
 
-## Wichtigsten Punkte vom letzten Mal
+- Was sagt die Theorie genau aus?
+- Wie ermöglicht die Theorie, die Sprachverarbeitung von unterschiedlichen Sprachen besser zu verstehen/zu modellieren?
 
-::: notes
-(1) by empirical testing postulated general (universal) properties of processing (see, for instance, the research on relative clause attachment, summarised above) and (2) by pointing to gaps in our theoretical coverage and exploring unknown territory.
+## *Competition Model*
 
-:::
+**Was ist es?**
 
 
-## Competition Model
+---
 
-Was ist es?
+## *Competition Model*
+
+Eine Theorie (oder eine wissenschaftliche Arbeit allgemein) ist immer ein Zeitzeugnis und reflektiert z.B. Annahmen die zu dieser Zeit üblich waren.
+
+- "The forms of natural languages are created, governed, constrained, acquired, and used in the service of communicative functions."
+- "The model is being proposed as a means of organizing our understanding of cross-linguistic differences in sentence processing, [...]"
+- "The model is a performance grammar or a theory of language use."
+
+
+
+[@macwhinney1984, p. 128]{style="color: #22636bfa;font-size: 70%"}
+
 
 ---
 
@@ -109,23 +125,24 @@ Was ist es?
 :::
 
 
-## Paper
 
-- Ziel, Motivation
-- Methode
-- Resultate
-- Interpretation
-- Gedanken, Kritikpunkte, offene Fragen
+## Kritik oder Defizite 
 
 
-## Andere Sprachen?
 
 
-## Andere Modelle:
+::: notes
+Wie sind simultane Cues gemeinsam integriert? Wie interagieren Cues? 
+Weniger über Online Processing
+Welche Cues werden zuerst gelernt? 
+Werden Cues aktiv miteinander vergleicht? 
+:::
 
-- Was für Aspekte sind im Competition Model nicht enthalten, die in @norcliffeCrosslinguisticPsycholinguisticsIts2015 erwähnt worden sind?
 
 
+## Nächste Woche
+
+- *Competition Model* im Bezug auf Erstspracherwerb
 
 # Referenzen
 
