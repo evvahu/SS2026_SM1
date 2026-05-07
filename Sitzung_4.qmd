@@ -45,6 +45,7 @@ Resultate und Diskussion:
 - schlechte räumliche Auflösung -> schwierig den exakten Ort der Aktivität zu erkennen
 - Elektroenzephalogramm: graphische Darstellung von Schwankungen in der elektrischen Aktivität
 :::
+
 ::: notes
 
 - gesäubert, Artefakte entfernt
