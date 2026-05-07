@@ -1,9 +1,10 @@
 ---
 title: "Sprachverarbeitung und Spracherwerb aus typologischer Sicht"
 subtitle: "Sitzung 4: Competition Model II"
-date: "07. Mai 2026"
+date: "07. May 2026"
 author: "Eva Scheel"
 institute: eva.scheel-huber@uni-koeln.de
+date-format: "DD. MM. YYYY"
 format:
   revealjs: 
     slide-number: true

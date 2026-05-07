@@ -3,6 +3,7 @@ title: "Sprachverarbeitung und Spracherwerb aus typologischer Sicht"
 subtitle: "Sitzung 1: Einführung"
 author: "Eva Scheel"
 institute: eva.scheel-huber@uni-koeln.de
+date-format: "DD. MM. YYYY"
 format:
   revealjs: 
     slide-number: true

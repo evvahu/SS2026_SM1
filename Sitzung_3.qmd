@@ -4,6 +4,7 @@ subtitle: "Sitzung 3: Competition Model I"
 date: "30. April 2026"
 author: "Eva Scheel"
 institute: eva.scheel-huber@uni-koeln.de
+date-format: "DD. MM. YYYY"
 format:
   revealjs: 
     slide-number: true
