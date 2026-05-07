@@ -59,7 +59,7 @@ Resultate und Diskussion:
 ![](images/EEG.png)
 
 
-[illustration: thanks to Arrate Isasi-Isasmendi]{style="font-size: 70%;color: #92b1b5fa;"}
+[from @beres2017]{style="font-size: 70%;"}
 
 ::: notes
 
@@ -91,42 +91,62 @@ Latenz, Polarität, Topographie und Amplitude
 -----
 
 
-### Komponenten 
-
-- LAN (left anterior negativity): 
-    - Latenz: 300-500ms
-    - Polarität: negativ, anterior links
-    - korreliert mit: Verarbeitung von Morphosyntax und Kongruenz
-
-![](images/EEG_Comp.png)
-
------
 
 
-### Komponenten 
 
--  N400: 
+### Komponenten  
+::::::::: columns
+::::: {.column width="40%"} 
+::: {style="font-size: 70%;"}
+-  **N400**: 
     - Latenz: 300-500ms
     - Polarität: negativ, *centro-parietal*
     - korreliert mit: semantischer Integration, Angemessenheit des Wortes im Kontext
     - Interpretation: je unerwarteter/unpassender das Wort, desto größer der N400-Effekt
+:::
+:::::
+::::: {.column width="60%"}
 
+![[from @steinhauer2014]{style="font-size: 70%;"}](images/EEG_N400.jpg)
 
-![](images/EEG_Comp.png)
-
+:::::
+::::::::: 
 -----
-
 
 ### Komponenten 
 
--  P600: 
+
+::::::::: columns
+::::: {.column width="40%"}
+- **LAN** (left anterior negativity): 
+    - Latenz: 300-500ms
+    - Polarität: negativ, anterior links
+    - korreliert mit: Verarbeitung von Morphosyntax und Kongruenz
+:::::
+::::: {.column width="60%"}
+![[from @faulhaber2014]{style="font-size: 70%;"}](images/EEG_topo.jpg){width=200}
+:::::
+::::::::: 
+
+-----
+
+### Komponenten 
+::::::::: columns
+::::: {.column width="40%"} 
+::: {style="font-size: 70%;"}
+
+-  **P600**: 
     - Latenz: 500-900 ms
     - Polarität: positiv, posterior
     - korreliert mit: Reanalyse, "syntactic Repair"
+:::
+:::::
+::::: {.column width="60%"}
 
+![[from @chunyutse2007]{style="font-size: 70%;"}](images/EEG_P600.jpg)
 
-![](images/EEG_Comp.png)
-
+:::::
+::::::::: 
 
 ## Ankündigung CCLS 
 
