@@ -1,0 +1,68 @@
+---
+title: "Sprachverarbeitung und Spracherwerb aus typologischer Sicht"
+subtitle: "Sitzung 5: Agent Preference I (Erwachsene)"
+date: "20. May 2026"
+author: "Eva Scheel"
+institute: eva.scheel-huber@uni-koeln.de
+date-format: "DD. MM. YYYY"
+format:
+  revealjs: 
+    slide-number: true
+    theme: slides_theme.scss
+editor: source
+bibliography: references.bib
+---
+
+
+-----------------------------------------------------------------------
+
+## Was haben wir letztes Mal besprochen?
+
+**Competition Model II**
+
+- Wie unterscheiden sich Cues und deren Gewichtung in unterschiedlichen Sprachen?
+- Was sind die Auswirkungen dieser Unterschiede auf den Erstspracherwerb?
+
+Heute: von Unterschieden über zu Gemeinsamkeiten, Agent Preference = universelles Merkmal der Sprachverarbeitung?
+
+
+## Unterschiede zu Studien in Wochen 2 und 3
+
+- Heute: EEG
+- Nächstes Mal: Eye-Tracking
+
+- Wie unterscheiden sich diese Methoden von den Methoden in @macwhinney1984 und @chan2009? 
+
+
+## Einführung: Agent Preference
+
+Wortstellung
+Gesten homesigners
+event cognition
+Apes
+
+
+
+
+
+Ein Henne-Ei-Problem?
+
+
+## Fragen (in Gruppen)
+
+1. 
+2. 
+3. 
+
+## Eye-Tracking
+
+
+## Themen zu den Sitzungen 7 und 8
+
+- 
+
+
+# Referenzen
+
+::: {#refs}
+:::
