@@ -19,7 +19,7 @@ bibliography: references.bib
 
 **Competition Model II**
 
-::: {style="font-size: 90%;"}
+::: {style="font-size: 80%;"}
 - Wie unterscheiden sich Cues und deren Gewichtung in unterschiedlichen Sprachen?
   - @macwhinney1984: Worstellung, Kongruenz, Betonung
 - Was sind die Auswirkungen dieser Unterschiede auf den Erstspracherwerb?
@@ -32,13 +32,17 @@ Heute: von Unterschieden zu **Gemeinsamkeiten**
 
 ## Unterschiede zu Studien in Wochen 2 und 3
 
+::: {style="font-size: 90%;"}
+
 Heute: EEG und nächstes Mal: Eye-Tracking
 
 Frage:
 
 - [Wie unterscheiden sich diese Methoden von den Methoden in @macwhinney1984 und @chan2009?]{style="color: #530c6aea;"}
 
-::: {style="font-size: 80%;"}
+:::
+
+::: {style="font-size: 70%;"}
 Zur Erinnerung:
 
 - @macwhinney1984: Teilnehmende hörten Sätze und mussten im Anschluss das Agens nennen
@@ -115,11 +119,14 @@ Event Cognition (z.B. @isasi-isasmendi2023)
 
 **Ein Henne-Ei-Problem?**
 
-![](images/henne_ei.png)
+![](images/henne_ei.png){width=1000}
+
 (Von [stern.de 'Na endlich: Forscher wollen das Henne-Ei-Problem gelöst haben'](https://www.stern.de/panorama/wissen/henne-ei-problem--forscher-wollen-antwort-auf-uralte-frage-haben-35242636.html))
 
 
 ## Fragen (in Gruppen)
+
+::: {style="font-size: 70%;"}
 
 1.  Wie versucht diese Studie dieses *Henne-Ei-Problem* anhand von Äiwoo zu lösen?
 2. Was sind die Hypothesen? (siehe *Table 1*)
@@ -131,6 +138,8 @@ Event Cognition (z.B. @isasi-isasmendi2023)
 
 5.  Wie werden die Ergebnisse der transitiven Sätzen interpretiert?
 6.  Könnten die Ergebnisse auch anders interpretiert werden? Gibt es Kritik an dem Experimentdesign?
+
+:::
 
 ## Resultate @sauppe2022
 
