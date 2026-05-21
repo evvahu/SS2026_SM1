@@ -24,11 +24,13 @@ bibliography: references.bib
   - @macwhinney1984: Worstellung, Kongruenz, Betonung
 - Was sind die Auswirkungen dieser Unterschiede auf den Erstspracherwerb?
   - @chan2009: Unterschiede in Worstellungen und Auslassen von Argumenten
-:::
+
 
 Heute: von Unterschieden zu **Gemeinsamkeiten**
 
 [**Agent Preference**]{style="color: #530c6aea;"} = universelles Merkmal der Sprachverarbeitung?
+
+:::
 
 ## Unterschiede zu Studien in Wochen 2 und 3
 
