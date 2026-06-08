@@ -1,0 +1,21 @@
+---
+title: "Studienleistung B: Literatur- und Resourcenliste"
+format: html
+---
+
+# Artikel
+
+| Artikel | Sprache | Partizipanten | Methoden |
+| ------- | ------- | ------- | ------- |
+
+
+
+# Resourcen für Häufigkeiten
+
+
+Falls ihr vertraut mit Korpusstudien seid:
+
+- [UD Dependencies]()
+- [Sketch Engine]()
+- [MultiCast]()
+
