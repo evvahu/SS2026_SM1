@@ -8,6 +8,7 @@ format:
   revealjs: 
     slide-number: true
     theme: slides_theme.scss
+    scrollable: true
 editor: source
 bibliography: references.bib
 ---
