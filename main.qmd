@@ -44,6 +44,7 @@ Farbkodierung:
 - Leistungsnachweis A: "Social Annotation" auf Perusall
   - für aktive Teilnahme: 5/7
 - Leistungsnachweis B: Transfer einer Studie in eine andere Sprache (Handout oder kleines Poster) und kurze Präsentation dazu
+  - [Literaturliste](literaturliste.html)
 
 # Übersichtswerke
 

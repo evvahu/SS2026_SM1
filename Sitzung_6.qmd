@@ -77,7 +77,8 @@ Was zeigen die Resultate und welche Forschungsfrage beantworten sie?
 Ihr plant eure eigene Studie!
 
 - Ihr wählt einen Artikel
-  - entweder einen aus der Liste oder ihr sucht selber einen (Inhalt muss den Themen, die wir hier besprochen haben, entsprechen)
+  - entweder einen aus der [Liste](literaturliste.html) oder ihr sucht selber einen 
+  - Inhalt muss den Themen, die wir hier besprochen haben, entsprechen (experimentelle Studie zur Verarbeitung/Erwerb von Morphosyntax))
 - Ihr adaptiert die Studie in eine andere Sprache
 
 ------------------------------------------------------------------------
@@ -143,7 +144,12 @@ Was sind die unabhängigen und abhängigen Variablen in @abbot-smith2017?
 
 ------------------------------------------------------------------------
 
-### Experimentelle Designs: Terminologie
+### Experimentelles Design: Terminologie
+
+::::::::: columns
+::::: {.column width="50%"}
+
+::: {style="font-size: 80%;"}
 
 - Between-Subjects-Design:
   - Bedingung wird nicht von allen Versuchsgruppen gesehen
@@ -151,9 +157,20 @@ Was sind die unabhängigen und abhängigen Variablen in @abbot-smith2017?
   - Bedingung wird von allen Versuchsgruppen gesehen
 - oftmals: gemischtes Design ("Mixed-Model-Design")
 
+:::
+
+:::::
+
+::::: {.column width="50%"}
+
 ![](images/subject_design.png)
 
+::: {style="font-size: 60%;"}
 Illustration von [Link](https://systmus.blogs.uni-hamburg.de/between-subjects-design-vs-within-subjects-design/)
+:::
+::::
+
+::::::::: 
 
 ------------------------------------------------------------------------
 
@@ -260,7 +277,7 @@ In an experiment examining surprisal effect, sentence length might be a confound
 - nur die älteren Kinder können ihre zunächst falsche Interpretation später reanalysieren (PVA + nicht ambig)
 - die Fehlerquote bei den älteren Kinder in den Bedingungen "PVA + nicht ambig" ist tiefer als bei Passivsätzen bei gleichaltrigen englischsprechenden Kindern (aufgrund der Unterschiede zwischen den Sprachen)
 
-# Referenzen
+# Referenzen {.scrollable}
 
 ::: {#refs}
 :::

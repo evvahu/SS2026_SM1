@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -131,7 +150,13 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="artikel" class="level1">
 <h1>Artikel</h1>
-<table class="caption-top">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Artikel</th>
@@ -141,22 +166,107 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td><span class="citation" data-cites="gertner2006">Gertner et al. (<a href="#ref-gertner2006" role="doc-biblioref">2006</a>)</span></td>
+<td>Englisch</td>
+<td><span style="color: #a90f7bfc;">Kinder</span></td>
+<td>Preferential Looking</td>
+</tr>
+<tr class="even">
+<td><span class="citation" data-cites="dittmar2008">Dittmar et al. (<a href="#ref-dittmar2008" role="doc-biblioref">2008</a>)</span></td>
+<td>Deutsch</td>
+<td><span style="color: #a90f7bfc;">Kinder</span></td>
+<td>Preferential Looking</td>
+</tr>
+<tr class="odd">
+<td><span class="citation" data-cites="kidd2007">Kidd et al. (<a href="#ref-kidd2007" role="doc-biblioref">2007</a>)</span></td>
+<td>Englisch &amp; Deutsch</td>
+<td><span style="color: #a90f7bfc;">Kinder</span></td>
+<td>Sentence Repetition</td>
+</tr>
+<tr class="even">
+<td><span class="citation" data-cites="brandt2016">Brandt et al. (<a href="#ref-brandt2016" role="doc-biblioref">2016</a>)</span></td>
+<td>Deutsch</td>
+<td><span style="color: #a90f7bfc;">Kinder</span></td>
+<td>Pointing</td>
+</tr>
+<tr class="odd">
+<td><span class="citation" data-cites="kamide2003">Kamide et al. (<a href="#ref-kamide2003" role="doc-biblioref">2003</a>)</span></td>
+<td>Englisch &amp; Japanisch</td>
+<td><span style="color: #0b7d65ea;">Erwachsene</span></td>
+<td>Eye Tracking (Visual World)</td>
+</tr>
+<tr class="even">
+<td><span class="citation" data-cites="ferreira2003">Ferreira (<a href="#ref-ferreira2003" role="doc-biblioref">2003</a>)</span></td>
+<td>Englisch</td>
+<td><span style="color: #0b7d65ea;">Erwachsene</span></td>
+<td>Fragen, Reaktionszeit</td>
+</tr>
+<tr class="odd">
+<td><span class="citation" data-cites="mak2006">Mak et al. (<a href="#ref-mak2006" role="doc-biblioref">2006</a>)</span></td>
+<td>Niederländisch</td>
+<td><span style="color: #0b7d65ea;">Erwachsene</span></td>
+<td>Fragen</td>
+</tr>
+<tr class="even">
+<td><span class="citation" data-cites="kaiser2004">Kaiser and Trueswell (<a href="#ref-kaiser2004" role="doc-biblioref">2004</a>)</span></td>
+<td>Finnisch</td>
+<td><span style="color: #0b7d65ea;">Erwachsene</span></td>
+<td>Self-Paced Reading, Eye-Tracking</td>
+</tr>
 </tbody>
 </table>
+<div class="notes">
+<div class="line-block"><span class="citation" data-cites="mertzen2023">Mertzen et al. (<a href="#ref-mertzen2023" role="doc-biblioref">2023</a>)</span> | Englisch &amp; Deutsch | <span style="color: #0b7d65ea;">Erwachsene</span> | Eye Tracking (Lesen) |</div>
+</div>
 </section>
-<section id="resourcen-für-häufigkeiten" class="level1">
-<h1>Resourcen für Häufigkeiten</h1>
-<p>Falls ihr vertraut mit Korpusstudien seid:</p>
+<section id="resourcen" class="level1">
+<h1>Resourcen</h1>
+<section id="frequenzen" class="level2">
+<h2 class="anchored" data-anchor-id="frequenzen">Frequenzen</h2>
+<p>Falls ihr mit Korpora vertraut seid:</p>
 <ul>
-<li><a href="">UD Dependencies</a></li>
-<li><a href="">Sketch Engine</a></li>
-<li><a href="">MultiCast</a></li>
+<li><a href="https://universaldependencies.org/">UD Dependencies</a></li>
+<li><a href="https://www.sketchengine.eu/">Sketch Engine</a></li>
+<li><a href="https://fis.uni-bamberg.de/entities/researchdata/40d30a1b-9152-4df4-a2b6-5ab159a24a1c">MultiCast</a></li>
+<li><a href="https://wortschatz-leipzig.de/en">Leipzig Corpora</a></li>
 </ul>
+<p>Ansonsten Korpusstudien oder Aussagen über Verwendung und Frequenz in Grammatiken oder wissenschaftlichen Artikeln (ohne Untermauerung durch Daten)</p>
+
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-brandt2016" class="csl-entry" role="listitem">
+Brandt, Silke, Elena Lieven, and Michael Tomasello. 2016. <span>“German Children’s Use of Word Order and Case Marking to Interpret Simple and Complex Sentences: Testing Differences Between Constructions and Lexical Items.”</span> <em>Language Learning and Development</em> 12 (2): 156–82. <a href="https://doi.org/10.1080/15475441.2015.1052448">https://doi.org/10.1080/15475441.2015.1052448</a>.
+</div>
+<div id="ref-dittmar2008" class="csl-entry" role="listitem">
+Dittmar, Miriam, Kirsten Abbot-Smith, Elena Lieven, and Michael Tomasello. 2008. <span>“German Children’s Comprehension of Word Order and Case Marking in Causative Sentences.”</span> <em>Child Development</em> 79 (4): 1152–67.
+</div>
+<div id="ref-ferreira2003" class="csl-entry" role="listitem">
+Ferreira, Fernanda. 2003. <span>“The Misinterpretation of Noncanonical Sentences.”</span> <em>Cognitive Psychology</em> 47 (2): 164203.
+</div>
+<div id="ref-gertner2006" class="csl-entry" role="listitem">
+Gertner, Yael, Cynthia Fisher, and Julie Eisengart. 2006. <span>“Learning Words and Rules: Abstract Knowledge of Word Order in Early Sentence Comprehension.”</span> <em>Psychological Science</em> 17 (8): 684–91. <a href="https://doi.org/10.1111/j.1467-9280.2006.01767.x">https://doi.org/10.1111/j.1467-9280.2006.01767.x</a>.
+</div>
+<div id="ref-kaiser2004" class="csl-entry" role="listitem">
+Kaiser, Elsi, and John C. Trueswell. 2004. <span>“The Role of Discourse Context in the Processing of a Flexible Word-Order Language.”</span> <em>Cognition</em> 94 (2): 113–47. <a href="https://doi.org/10.1016/j.cognition.2004.01.002">https://doi.org/10.1016/j.cognition.2004.01.002</a>.
+</div>
+<div id="ref-kamide2003" class="csl-entry" role="listitem">
+Kamide, Yuki, Gerry T. M Altmann, and Sarah L Haywood. 2003. <span>“The Time-Course of Prediction in Incremental Sentence Processing: Evidence from Anticipatory Eye Movements.”</span> <em>Journal of Memory and Language</em> 49 (1): 133–56. <a href="https://doi.org/10.1016/S0749-596X(03)00023-8">https://doi.org/10.1016/S0749-596X(03)00023-8</a>.
+</div>
+<div id="ref-kidd2007" class="csl-entry" role="listitem">
+Kidd, Evan, Silke Brandt, Elena Lieven, and Michael Tomasello. 2007. <span>“Object Relatives Made Easy: A Cross-Linguistic Comparison of the Constraints Influencing Young Children’s Processing of Relative Clauses.”</span> <em>Language and Cognitive Processes</em> 22 (6): 860–97. <a href="https://doi.org/10.1080/01690960601155284">https://doi.org/10.1080/01690960601155284</a>.
+</div>
+<div id="ref-mak2006" class="csl-entry" role="listitem">
+Mak, Willem M., Wietske Vonk, and Herbert Schriefers. 2006. <span>“Animacy in Processing Relative Clauses: The Hikers That Rocks Crush.”</span> <em>Journal of Memory and Language</em> 54 (4): 466–90. <a href="https://doi.org/10.1016/j.jml.2006.01.001">https://doi.org/10.1016/j.jml.2006.01.001</a>.
+</div>
+<div id="ref-mertzen2023" class="csl-entry" role="listitem">
+Mertzen, Daniela, Dario Paape, Brian Dillon, Ralf Engbert, and Shravan Vasishth. 2023. <span>“Syntactic and Semantic Interference in Sentence Comprehension: Support from English and German Eye-Tracking Data.”</span> <em>Glossa Psycholinguistics</em> 2 (1). <a href="https://doi.org/10.5070/G60111266">https://doi.org/10.5070/G60111266</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

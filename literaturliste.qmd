@@ -1,21 +1,35 @@
 ---
 title: "Studienleistung B: Literatur- und Resourcenliste"
 format: html
+bibliography: references.bib
 ---
 
 # Artikel
 
 | Artikel | Sprache | Partizipanten | Methoden |
-| ------- | ------- | ------- | ------- |
+|------------------|------------------|------------------|------------------|
+| @gertner2006 | Englisch | [Kinder]{style="color: #a90f7bfc;"} | Preferential Looking |
+| @dittmar2008 | Deutsch | [Kinder]{style="color: #a90f7bfc;"} | Preferential Looking |
+| @kidd2007 | Englisch & Deutsch | [Kinder]{style="color: #a90f7bfc;"} | Sentence Repetition |
+| @brandt2016 | Deutsch | [Kinder]{style="color: #a90f7bfc;"} | Pointing |
+| @kamide2003 | Englisch & Japanisch | [Erwachsene]{style="color: #0b7d65ea;"} | Eye Tracking (Visual World) |
+| @ferreira2003 | Englisch | [Erwachsene]{style="color: #0b7d65ea;"} | Fragen, Reaktionszeit |
+| @mak2006 | Niederländisch | [Erwachsene]{style="color: #0b7d65ea;"} | Fragen |
+| @kaiser2004 | Finnisch | [Erwachsene]{style="color: #0b7d65ea;"} | Self-Paced Reading, Eye-Tracking |
 
+::: notes
+| @mertzen2023 \| Englisch & Deutsch \| [Erwachsene]{style="color: #0b7d65ea;"} \| Eye Tracking (Lesen) \|
+:::
 
+# Resourcen
 
-# Resourcen für Häufigkeiten
+## Frequenzen
 
+Falls ihr mit Korpora vertraut seid:
 
-Falls ihr vertraut mit Korpusstudien seid:
+- [UD Dependencies](https://universaldependencies.org/)
+- [Sketch Engine](https://www.sketchengine.eu/)
+- [MultiCast](https://fis.uni-bamberg.de/entities/researchdata/40d30a1b-9152-4df4-a2b6-5ab159a24a1c)
+- [Leipzig Corpora](https://wortschatz-leipzig.de/en)
 
-- [UD Dependencies]()
-- [Sketch Engine]()
-- [MultiCast]()
-
+Ansonsten Korpusstudien oder Aussagen über Verwendung und Frequenz in Grammatiken oder wissenschaftlichen Artikeln (ohne Untermauerung durch Daten)
