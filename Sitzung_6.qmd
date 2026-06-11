@@ -319,7 +319,7 @@ In an experiment examining surprisal effect, sentence length might be a confound
 | AVP | ambig | mehr Blicke zu AVP bereits vor dem Verb | niedrige Fehlerquote |
 | PVA | ambig | mehr Blicke zu AVP bereits vor dem Verb; 2. NP: immer noch mehr Blicke zu AVP | hohe Fehlerquote |
 | AVP | nicht ambig | mehr Blicke zu AVP bereits vor dem Verb | niedrige Fehlerquote |
-| PVA | nicht ambig | 2-Jährige: mehr Blicke zu AVP vor dem Verb, bei 2. NP: um die 50%; 3-jährige: um die 50% vor dem Verb, beim 2. NP mehr Blicke zu PVA | 2-Jährige: hohe Fehlerquote (niedriger als bei PVA+ambig), 3-jährige: oberhalb des Zufallswert |
+| PVA | nicht ambig | 2-Jährige: mehr Blicke zu AVP vor dem Verb, bei 2. NP: keine Präferenz; 3-jährige: keine Präferenz vor dem Verb, beim 2. NP mehr Blicke zu PVA | 2-Jährige: hohe Fehlerquote (niedriger als bei PVA+ambig), 3-jährige: oberhalb des Zufallswert |
 
 : ET = Eye-Tracking, FC = Forced Choice
 :::
