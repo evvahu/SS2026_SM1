@@ -162,6 +162,8 @@ Das Hauptziel dieser Studienleistung ist die vertiefte Auseinandersetzung mit de
 
 ### Experimentelles Design: Terminologie
 
+::: {style="font-size: 80%;"}
+
 - unabhängige Variable (**independent variable**)
   - manipulierte Variable(n) mit deren Hilfe man versucht, die abhängige Variable zu modellieren (i.e. man untersucht deren Auswirkung)
   - "Ursache"
@@ -170,6 +172,8 @@ Das Hauptziel dieser Studienleistung ist die vertiefte Auseinandersetzung mit de
   - "Antwortvariable"/"Wirkung"
 
 Was sind die unabhängigen und abhängigen Variablen in @abbot-smith2017?
+
+:::
 
 ------------------------------------------------------------------------
 
@@ -206,7 +210,7 @@ Illustration von [Link](https://systmus.blogs.uni-hamburg.de/between-subjects-de
 ### Experimentelle Designs: Terminologie
 
 
-::: {style="font-size: 80%;"}
+::: {style="font-size: 70%;"}
 
 - Item: Tuple (Trippel, Quadrupel,...) vom selben Stimulus in den unterschiedlichen Bedingungen
   - z.B. ein Item in zwei Bedingungen (Aktiv/Passiv): "The man washes the dog."(*Aktiv*) und "The dog is washed by the man." (*Passiv*)
@@ -253,6 +257,8 @@ In an experiment examining surprisal effect, sentence length might be a confound
 
 ### Spracheigenschaften
 
+::: {style="font-size: 80%;"}
+
 - Worstellung: flexibel, alle sechs Worstellungen sind erlaubt, Worstellung hängt von Informationsstruktur ab @bailynDoesRussianScrambling2003
 - Kasussystem:
   - Akkusativ-Nominatives Alignment
@@ -264,17 +270,22 @@ In an experiment examining surprisal effect, sentence length might be a confound
 
 @timberlake2004reference
 
+:::
+
+
 ------------------------------------------------------------------------
 
 ### Sprachgebrauch: Worstellung
 
 ![](images/huber_etal.png)
 
-@huber2026
+[@huber2026]{style="font-size: 50%;"}
 
 ------------------------------------------------------------------------
 
 ### Studiendesign
+
+::: {style="font-size: 80%;"}
 
 - 2 x 2 Design (faktorieller Versuchsplan --\> testen von mehreren unabhängigen Variablen)
 - Bedingungen:
@@ -285,11 +296,13 @@ In an experiment examining surprisal effect, sentence length might be a confound
     - Schwierigkeit: Synkretismus ist abhängig vom Nomen (Belebtheit, letzter Konsonant (hart oder weich))
   - Verben: transitive Verben mit Agens-Argumenten im Nominativ und Patiens-Argumenten im Akkusativ
 
+:::
+
 ------------------------------------------------------------------------
 
 ### Studiendesign: Item
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 60%;"}
 | Wortstellung | Ambiguität 1. NP | Beispiel | Übersetzung |
 |------------------|------------------|------------------|------------------|
 | AVP | ambig | дочь ('daughter.NOM/ACC') видит (see-3SG) отца (father-ACC) | 'The daughter sees the father' |
@@ -302,7 +315,7 @@ In an experiment examining surprisal effect, sentence length might be a confound
 
 ### Hypothese / Voraussage
 
-::: {style="font-size: 70%;"}
+::: {style="font-size: 60%;"}
 | Worstellung | Ambiguität 1. NP | Voraussage ET | Voraussage FC |
 |------------------|------------------|------------------|------------------|
 | AVP | ambig | mehr Blicke zu AVP bereits vor dem Verb | niedrige Fehlerquote |
