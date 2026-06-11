@@ -19,9 +19,12 @@ bibliography: references.bib
 
 **Agens Präferenz** [@sauppe2022]
 
+::: {style="font-size: 80%;"}
+
 - Ist die Agens Präferenz ein Produkt unserer Erfahrung mit häufigen Strukturen in der Sprache? oder ist sie alternativ verwurzelt in allgemeine kognitive Faktoren?
 - Äiwoo, patiens-initiale Sprache, Worstellung im Sprachgebrauch ist mit einer Agens Präferenz im Konflikt
 - Resultate: Präferenz für Agens nur bei menschlichen Referenten, bei anderen belebten und unbelebten Referenten gibt es eine Präferenz für Patiens
+::: 
 
 [Heute: Agens Präferenz im kindlichen Spracherwerb]{style="color: #3b0767ea; "}
 
@@ -29,16 +32,24 @@ bibliography: references.bib
 
 [Do two and three year old children use an incremental first-NP-as-agent bias to process active transitive and passive sentences?: A permutation analysis]{style="color: #3b0767ea; "}
 
-Was sind die **zwei Forschungsfragen**, die die Autor\*innen versuchen zu beantworten?
+
+
+Was sind die **zwei Forschungsfragen** genau, die die Autor\*innen versuchen zu beantworten?
+
+::: notes
+
+siehe Abstract
+
+:::
 
 ------------------------------------------------------------------------
 
 ### Methode
 
-- Between-Subjects-Design vs. Within-Subjects-Design: welches Design verwendet diese Studie? Wieso?
-- offline vs. online experimentelle Paradigma: in Anbetracht der Forschungsfragen, wieso verwendet die Studie beide Paradigma?
-- Eye-Tracking und forced-choice Pointing: Wie funktionieren diese experimentellen Paradigma?
-- Ablauf des Experimentes: Wie laufen die Experimente ab?
+1. Between-Subjects-Design vs. Within-Subjects-Design: welches Design verwendet diese Studie? Wieso?
+2. Eye-Tracking (online) und forced-choice Pointing (offline): Wie funktionieren diese experimentellen Paradigma?
+3. Wieso werden beide Paradigma verwendet?
+4. Wie laufen die Experimente ab?
 
 ------------------------------------------------------------------------
 
@@ -48,19 +59,19 @@ Was zeigen die Resultate und welche Forschungsfrage beantworten sie?
 
 ------------------------------------------------------------------------
 
-### Experiment 1 (eye-tracking)
+### Experiment 1 (Eye-tracking)
 
 ![](images/Abbot_Smith_1.png){width="1000"}
 
 ------------------------------------------------------------------------
 
-### Experiment 1 (eye-tracking)
+### Experiment 1 (Eye-tracking)
 
 ![](images/Abbot_Smith_2.png){width="1000"}
 
 ------------------------------------------------------------------------
 
-### Experiment 2 (forced-choice)
+### Experiment 2 (Forced-choice)
 
 ![](images/Abbot_Smith_3.png){width="1500"}
 
@@ -74,6 +85,7 @@ Was zeigen die Resultate und welche Forschungsfrage beantworten sie?
 
 ## Studienleistung B
 
+
 Ihr plant eure eigene Studie!
 
 - Ihr wählt einen Artikel
@@ -81,9 +93,14 @@ Ihr plant eure eigene Studie!
   - Inhalt muss den Themen, die wir hier besprochen haben, entsprechen (experimentelle Studie zur Verarbeitung/Erwerb von Morphosyntax))
 - Ihr adaptiert die Studie in eine andere Sprache
 
+
+
 ------------------------------------------------------------------------
 
 ### Studienleistung B
+
+::: {style="font-size: 80%;"}
+
 
 **Gruppen**:
 
@@ -97,6 +114,8 @@ Ihr plant eure eigene Studie!
 
 Sprachstunden: nach Vereinbarung
 
+:::
+
 ------------------------------------------------------------------------
 
 ### Sitzungen 10-12
@@ -104,31 +123,41 @@ Sprachstunden: nach Vereinbarung
 - Jede\*r liest mindestens einer der Artikel
   - ich stelle die Artikel auf Perusall aber das Kommentieren ist nicht mehr Teil der Studienleistungen
 - Ihr seid die Experten aber wir besprechen eure Artikel zusammen
-- Im Anschluss stellt ihr eure Studie mit Hilfe von einem Handout, kleinen Poster oder wenigen (!) Folien vor
+- Im Anschluss stellt ihr eure eigene Studie mit Hilfe von einem Handout, kleinen Poster oder wenigen (!) Folien vor
 - Fragen & Diskussion
 
 ------------------------------------------------------------------------
 
 ### "Eure" Studie
 
-- Unterschiede zwischen Zielsprache und der Originalsprache (nur bezüglich der relevanten Eigenschaften)
-- Methode: die gleiche oder eine andere?
+::: {style="font-size: 80%;"}
+
+- Unterschiede zwischen Zielsprache und der Ausgangssprache (nur bezüglich der relevanten Eigenschaften)
+- Methode: wählt ihr die gleiche oder eine andere?
 - Beschreibt die Sprache
   - ... im Bezug auf Ihre Grammatik (wieder: nur relevante Aspekte)
   - ... im Bezug auf den Sprachgebrauch (Häufigkeiten unterschiedlicher Eigenschaften/Strukturen) (wenn möglich)
 - Wählt eure Bedingung(en) aus und veranschaulicht sie anhand von einem **Item** auf (keine Liste von allen Stimuli erforderlich)
 - Aufgrund der Spracheigenschaften und des Sprachgebrauchs: Was sind eure Hypothesen/Erwartungen? Wie denkt ihr werden die Ergebnisse eurer Studie im Vergleich zu der Originalstudie aussehen?
 
+:::
+
 ------------------------------------------------------------------------
 
 ### "Eure" Studie
+
+::: {style="font-size: 80%;"}
 
 - Im Falle von Kindsspracherwerb: welches Alter? und wieso?
 - Transfer von Erwachsene -\> Kinder ist ebenso möglich (die umgekehrte Richtung ist wahrscheinlich weniger spannend)
 - Zielsprache darf Deutsch sein, wenn ihr eine andere Sprache wählt, konzentriert euch auf die relevanten Merkmale
 
-**wichtig**: das Hauptziel dieser Studienleistung ist die vertiefte Auseinandersetzung mit dem Aufbau von Experimenten und dem Einfluss von unterschiedlichen Sprachen auf die Sprachverarbeitung und den Spracherwerb. Ebenso dient die Studienleistung als Grundlage für die Diskussion in der Sitzung. Ihr müsst **keine** perfekte, durchführbare Studie erstellen.
 
+[**wichtig**: Ihr müsst **keine** perfekte, durchführbare Studie erstellen.]{style="color: #9d1152ea; "}
+
+Das Hauptziel dieser Studienleistung ist die vertiefte Auseinandersetzung mit dem Aufbau von Experimenten und dem Einfluss von unterschiedlichen Sprachen auf die Sprachverarbeitung und den Spracherwerb. Ebenso dient die Studienleistung als Grundlage für die Diskussion in der Sitzung. 
+
+:::
 ------------------------------------------------------------------------
 
 ### Experimentelles Design: Terminologie
@@ -176,6 +205,9 @@ Illustration von [Link](https://systmus.blogs.uni-hamburg.de/between-subjects-de
 
 ### Experimentelle Designs: Terminologie
 
+
+::: {style="font-size: 80%;"}
+
 - Item: Tuple (Trippel, Quadrupel,...) vom selben Stimulus in den unterschiedlichen Bedingungen
   - z.B. ein Item in zwei Bedingungen (Aktiv/Passiv): "The man washes the dog."(*Aktiv*) und "The dog is washed by the man." (*Passiv*)
 - *Within-Items*: sind erwünscht aber nicht immer möglich (z.B. inhärente Eigenschaften von Wörtern wie Wordlänge)
@@ -183,6 +215,9 @@ Illustration von [Link](https://systmus.blogs.uni-hamburg.de/between-subjects-de
 - Störfaktoren:
   - Variable, die systematisch mit den unabhängigen und abhängigen Variblen korelliert und somit eine alternative Erklärung der Ergebnisse liefert
   - Ihr Effekt ist von dem Effekt der unabhängigen Varible nicht zu unterscheiden
+
+
+::: 
 
 ::: notes
 In an experiment examining surprisal effect, sentence length might be a confounding variable that is responsible for the relation between surprisal and reaction time (RT)
@@ -195,14 +230,23 @@ In an experiment examining surprisal effect, sentence length might be a confound
   - 2 und 3-jährige Kinder zeigen einen (temporären) first-NP-as-agent Bias
   - nur 3-jährige interpretieren Passivsätze richtig
 - Originalsprache: Englisch, Zielsprache: Russisch
+
+:::
+
+----------------------------------
+
+
+::: {style="font-size: 80%;"}
+
 - Motivation:
   - Wie im Englischen ist der Passiv in der gesprochenen Sprache im Russischen selten
   - Unterschiede zum Englischen: flexible Worstellung im Russischen, Kasus und stärker ausgeprägte Markierung von Kongruenz
 - Forschungsfrage: Weisen russischsprechende Kinder first-NP-as-agent Bias in ihrer Satzverarbeitung auf?
-- Manipulation von Reihenfolge der Semantischen Rollen durch Worstellung, nich durch Diathese
+- Unterschied zur Originalstudie: Manipulation von Reihenfolge der Semantischen Rollen durch Worstellung, nicht durch Diathese
 - Methode:
   - wird nicht geändert, da das Interesse in der Online-Verarbeitung sowie auch im Offline-Verständnis liegt
   - Alter: gleich wie in @abbot-smith2017
+
 :::
 
 ------------------------------------------------------------------------

@@ -17,9 +17,7 @@ bibliography: references.bib
 | @mak2006 | Niederländisch | [Erwachsene]{style="color: #0b7d65ea;"} | Fragen |
 | @kaiser2004 | Finnisch | [Erwachsene]{style="color: #0b7d65ea;"} | Self-Paced Reading, Eye-Tracking |
 
-::: notes
-| @mertzen2023 \| Englisch & Deutsch \| [Erwachsene]{style="color: #0b7d65ea;"} \| Eye Tracking (Lesen) \|
-:::
+
 
 # Resourcen
 
