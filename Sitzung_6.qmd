@@ -207,7 +207,7 @@ Illustration von [Link](https://systmus.blogs.uni-hamburg.de/between-subjects-de
 
 ------------------------------------------------------------------------
 
-### Experimentelle Designs: Terminologie
+### Experimentelles Design: Terminologie
 
 
 ::: {style="font-size: 70%;"}
@@ -243,8 +243,7 @@ In an experiment examining surprisal effect, sentence length might be a confound
 ::: {style="font-size: 80%;"}
 
 - Motivation:
-  - Wie im Englischen ist der Passiv in der gesprochenen Sprache im Russischen selten
-  - Unterschiede zum Englischen: flexible Worstellung im Russischen, Kasus und stärker ausgeprägte Markierung von Kongruenz
+  - flexiblere Worstellung im Russischen als im Englischen
 - Forschungsfrage: Weisen russischsprechende Kinder first-NP-as-agent Bias in ihrer Satzverarbeitung auf?
 - Unterschied zur Originalstudie: Manipulation von Reihenfolge der Semantischen Rollen durch Worstellung, nicht durch Diathese
 - Methode:
@@ -268,10 +267,9 @@ In an experiment examining surprisal effect, sentence length might be a confound
 - Kongruenz von Verb und Subjekt:
   - Numerus, Genus nur in der Vergangenheit
 
-@timberlake2004reference
-
 :::
 
+[@timberlake2004reference]{style="font-size: 70%;"}
 
 ------------------------------------------------------------------------
 
@@ -321,7 +319,7 @@ In an experiment examining surprisal effect, sentence length might be a confound
 | AVP | ambig | mehr Blicke zu AVP bereits vor dem Verb | niedrige Fehlerquote |
 | PVA | ambig | mehr Blicke zu AVP bereits vor dem Verb; 2. NP: immer noch mehr Blicke zu AVP | hohe Fehlerquote |
 | AVP | nicht ambig | mehr Blicke zu AVP bereits vor dem Verb | niedrige Fehlerquote |
-| PVA | nicht ambig | mehr Blicke zu AVP bereits vor dem Verb; 2. NP: 2-Jährige: mehr Blicke zu AVP, 3-jährige: mehr Blicke zu PVA | 2-Jährige: hohe Fehlerquote (niedriger als bei PVA+ambig), 3-jährige (oberhalb des Zufallswert) |
+| PVA | nicht ambig | 2-Jährige: mehr Blicke zu AVP vor dem Verb, bei 2. NP: um die 50%; 3-jährige: um die 50% vor dem Verb, beim 2. NP mehr Blicke zu PVA | 2-Jährige: hohe Fehlerquote (niedriger als bei PVA+ambig), 3-jährige: oberhalb des Zufallswert |
 
 : ET = Eye-Tracking, FC = Forced Choice
 :::
