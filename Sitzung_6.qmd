@@ -151,7 +151,7 @@ Sprachstunden: nach Vereinbarung
 - Im Falle von Kindsspracherwerb: welches Alter? und wieso?
 - Transfer von Erwachsene -\> Kinder ist ebenso möglich (die umgekehrte Richtung ist wahrscheinlich weniger spannend)
 - Zielsprache darf Deutsch sein, wenn ihr eine andere Sprache wählt, konzentriert euch auf die relevanten Merkmale
-
+- falls mehrere Experimente im Artikel durchgeführt werden, müsst ihr nur eines davon in eure Sprache übertragen
 
 [**wichtig**: Ihr müsst **keine** perfekte, durchführbare Studie erstellen.]{style="color: #9d1152ea; "}
 

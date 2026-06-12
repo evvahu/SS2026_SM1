@@ -25,7 +25,7 @@ Wie verarbeiten und lernen Menschen Sprache auf der ganzen Welt? In diesem Kurs 
 | 5 | 21.05.2026 | [[Sprachverstehen Erwachsene](Sitzung_5.html)]{style="color: #0b7d65ea;"}[: Agens Präferenz](Sitzung_5.html) | @sauppe2022 | @demiral2008; @bickel2015; @isasi-isasmendi2024 |
 | \- | 28.05.2026 | Pfingstferien |  |  |
 | \- | 04.06.2026 | Fronleichnam |  |  |
-| 6 | 11.06.2026 | [Spracherwerb]{style="color: #a90f7bfc;"}: Agens Präferenz; [Besprechung Leistungsnachweis B]{style="color: #000fdeea;"} | @abbot-smith2017 | @shin2019 |
+| 6 | 11.06.2026 | [[Spracherwerb]{style="color: #a90f7bfc;"}: Agens Präferenz; [Besprechung Leistungsnachweis B]{style="color: #000fdeea;"}]((Sitzung_6.html)) | @abbot-smith2017 | @shin2019 |
 | 7 | 18.06.2026 | Sprachverstehen im [Spracherwerb]{style="color: #a90f7bfc;"}: Multilingualismus | @meir2021 | @torregrossa2024 ; @meir2024 ; @dijk2022 ; @pham2016 |
 | 8 | 25.06.2026 | Sprachproduktion & Satzplanung [Erwachsene]{style="color: #0b7d65ea;"} | @norcliffe2015 | @branigan2008 ; @bunger2016 ; @nordlinger2022 ; @sauppe2016 |
 | 9 | 02.07.2026 | Vorbereitung Leistungsnachweis B individuell zuhause |  |  |
