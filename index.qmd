@@ -39,6 +39,9 @@ Farbkodierung:
 - [Erwachsene]{style="color: #0b7d65ea;"}
 - [Zusätzliches Thema]{style="color: #000fdeea;"}
 
+Folien im PDF-Format sind [hier](https://uni-koeln.sciebo.de/s/TjjNw9yjyEsBJkL) zugänglich. 
+
+
 # Leistungsnachweise
 
 - Leistungsnachweis A: "Social Annotation" auf Perusall
