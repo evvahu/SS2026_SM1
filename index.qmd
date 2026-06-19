@@ -30,7 +30,7 @@ Wie verarbeiten und lernen Menschen Sprache auf der ganzen Welt? In diesem Kurs 
 | 8 | 25.06.2026 | Sprachproduktion & Satzplanung [Erwachsene]{style="color: #0b7d65ea;"} | @norcliffe2015 | @branigan2008 ; @bunger2016 ; @nordlinger2022 ; @sauppe2016 |
 | 9 | 02.07.2026 | Vorbereitung Leistungsnachweis B individuell zuhause |  |  |
 | 10 | 09.07.2026 | Vorstellen Leistungsnachweis B | [ES]{style="color: #3b0767ea; "}: @gertner2006  | [MD]{style="color: #3b0767ea; "}: @dittmar2008 |
-| 11 | 16.07.2026 | Vorstellen Leistungsnachweis B | \[RR & NAS\]]{style="color: #3b0767ea; "}: @brandt2016  | [ML]{style="color: #3b0767ea; "}: @kamide2003 |
+| 11 | 16.07.2026 | Vorstellen Leistungsnachweis B | [\[RR & NAS\]]{style="color: #3b0767ea; "}: @brandt2016  | [ML]{style="color: #3b0767ea; "}: @kamide2003 |
 | 12 | 23.07.2026 | Vorstellen Leistungsnachweis B & Rückblick  | [AA]{style="color: #3b0767ea; "}: @kimppa2019 | [\[AK & RSL\]]{style="color: #3b0767ea; "}: @ferreira2003  |
 
 Farbkodierung:
