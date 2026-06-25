@@ -27,7 +27,7 @@ Wie verarbeiten und lernen Menschen Sprache auf der ganzen Welt? In diesem Kurs 
 | \- | 04.06.2026 | Fronleichnam |  |  |
 | 6 | 11.06.2026 | [[Spracherwerb]{style="color: #a90f7bfc;"}: Agens Präferenz; [Besprechung Leistungsnachweis B]{style="color: #000fdeea;"}](Sitzung_6.html) | @abbot-smith2017 | @shin2019 |
 | 7 | 18.06.2026 | [Sprachverstehen im [Spracherwerb]{style="color: #a90f7bfc;"}: Multilingualismus](Sitzung_7.html) | @meir2021 | @torregrossa2024 ; @meir2024 ; @dijk2022 ; @pham2016 |
-| 8 | 25.06.2026 | Sprachproduktion & Satzplanung [Erwachsene]{style="color: #0b7d65ea;"} | @norcliffe2015 | @branigan2008 ; @bunger2016 ; @nordlinger2022 ; @sauppe2016 |
+| 8 | 25.06.2026 | [Sprachproduktion & Satzplanung [Erwachsene]{style="color: #0b7d65ea;"}](Sitzung_8.html) | @norcliffe2015 | @branigan2008 ; @bunger2016 ; @nordlinger2022 ; @sauppe2016 |
 | 9 | 02.07.2026 | Vorbereitung Leistungsnachweis B individuell zuhause |  |  |
 | 10 | 09.07.2026 | Vorstellen Leistungsnachweis B | [ES]{style="color: #3b0767ea; "}: @gertner2006  | [MD]{style="color: #3b0767ea; "}: @dittmar2008 |
 | 11 | 16.07.2026 | Vorstellen Leistungsnachweis B | [\[RR & NAS\]]{style="color: #3b0767ea; "}: @brandt2016  | [ML]{style="color: #3b0767ea; "}: @kamide2003 |
